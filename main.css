@@ -47,12 +47,13 @@ p{margin:0 0 20px 0;line-height:1.5em}
 .end {
     min-height: 50vh;
     display: grid;
-    align-content: center;
+    align-content: end;
     background: -webkit-linear-gradient(rgba(0,0,0,0), #000000);
     background: -moz-linear-gradient(rgba(0,0,0,0), #000000);
     background: -ms-linear-gradient(rgba(0,0,0,0), #000000);
     background: -o-linear-gradient(rgba(0,0,0,0), #000000);
     justify-content: center;
+    padding-bottom: 0px;
 }
 
 a,a:visited{color:black;text-decoration:underline;outline:0}
