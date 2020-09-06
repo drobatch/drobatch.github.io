@@ -1,3 +1,4 @@
+body{margin: 0}
 .mono,pre,code,tt,p code,li code{font-family:Menlo,Monaco,"Andale Mono","lucida console","Courier New",monospace;font-size:12px}
 p code,li code{display:inline-block;white-space:no-wrap;background:white;font-size:.8em;line-height:1.5em;color:#555;border:1px solid #DDD;-moz-border-radius:.4em;-webkit-border-radius:.4em;-o-border-radius:.4em;-ms-border-radius:.4em;-khtml-border-radius:.4em;border-radius:.4em;padding:0 .3em;margin:-1px 0}
 blockquote,blockquote p{font-size:19px;line-height:24px;color:#777;font-style:italic}
