@@ -34,7 +34,7 @@ p{margin:0 0 20px 0;line-height:1.5em}
 }
 
 .toc {
-    min-height: 75vh;
+    min-height: 50vh;
     display: grid;
     align-content: center;
     background: -webkit-linear-gradient(#000000, rgba(0,0,0,0));
